@@ -14,7 +14,7 @@ This project is apart of the Udacity Data Engineering Nanodegree program and is 
 
 ## Instructions
 
-You will need to edit the configuration file  `dl.cfg`  with the following structure:
+You will need to edit the configuration file  `dl.cfg`  and add your own AWS keys:
 
 ```
 [AWS]
